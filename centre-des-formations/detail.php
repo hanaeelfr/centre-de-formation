@@ -27,7 +27,8 @@ if(isset($_SESSION['email'])){
 </head>
 <body>
     <nav class="navbar navbar-light bg-light">
-        <img src="image/centre.png" alt="logo"  width="8%">
+       <a class="navbar-brand" href="formation.php">
+    <img src="image/centre.png" alt="logo"  width="20%"></a>
 
 
         <div class="d-flex me-5">
